@@ -18,11 +18,6 @@ This website is for all those business geeks who wants to grow there small-scale
 5. A library of string validators and sanitizers. Install the library with npm install validator
 
 
-![Screenshot (241)](https://user-images.githubusercontent.com/71898741/123625559-7c91f400-d82d-11eb-874f-0cdd820c4417.png)
-![Screenshot (242)](https://user-images.githubusercontent.com/71898741/123625579-8156a800-d82d-11eb-9368-38eb2ef3dd22.png)
-![Screenshot (243)](https://user-images.githubusercontent.com/71898741/123625593-861b5c00-d82d-11eb-9fde-37358498d033.png)
-![Screenshot (244)](https://user-images.githubusercontent.com/71898741/123625609-8b78a680-d82d-11eb-85bb-9450fd5030f8.png)
-
 
 # Future Developments
 This is just a basic structure of the website. In future i would like to include features like privacy, backups etc to make it fully functional.
